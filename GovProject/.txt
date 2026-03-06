@@ -1,0 +1,8 @@
+Performance Optimization Techniques Used
+
+1. Indexing on state_id and time_id
+2. Partitioning for large datasets
+3. Clustering keys for query pruning
+4. Avoid SELECT 
+5. Query optimization using CTE
+6. Distributed processing using Spark

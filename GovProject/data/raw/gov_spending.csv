@@ -1,0 +1,11 @@
+state,department,scheme,year,amount_spent,beneficiaries
+Odisha,Health,Ayushman Bharat,2023,5000000,12000
+Odisha,Education,Midday Meal,2023,3000000,15000
+Bihar,Health,Ayushman Bharat,2023,7000000,18000
+Karnataka,Agriculture,PM Kisan,2023,8000000,20000
+Odisha,Agriculture,PM Kisan,2024,6000000,17000
+Bihar,Education,Midday Meal,2024,4000000,14000
+Maharashtra,Health,Ayushman Bharat,2024,9000000,22000
+Tamil Nadu,Education,Midday Meal,2024,4500000,16000
+Gujarat,Agriculture,PM Kisan,2023,7500000,19000
+West Bengal,Health,Ayushman Bharat,2024,6500000,17500
